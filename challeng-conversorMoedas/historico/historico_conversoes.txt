@@ -1,0 +1,10 @@
+
+[
+  {
+    "moeda_destino": "BRL",
+    "valor_convertido": 5.4061,
+    "data_hora": "2024-06-14 00:36:15",
+    "moeda_origem": "USD",
+    "valor_origem": 1.0
+  }
+]
