@@ -80,5 +80,5 @@ Contribuições são bem-vindas! Se você encontrar bugs ou tiver ideias para me
 Para dúvidas ou sugestões, você pode me encontrar em:
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-campos-248043274/)
-- WhatsApp: +55 21 92007-6580
+- WhatsApp: +55 21 973646782
 - Email: lucas.1532@hotmail.com
